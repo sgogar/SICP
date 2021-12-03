@@ -77,5 +77,7 @@ It'd be something like
 ergo, we'd get 0 as the final output. 
 |#
 
-
+;Exercise 1.6
+;define new if 
+;define sqrt procedure
 
